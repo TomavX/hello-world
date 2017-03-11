@@ -1,2 +1,3 @@
 # hello-world
-It's optional description
+
+It's a hello world readme file.
